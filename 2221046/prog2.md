@@ -10,6 +10,6 @@ printf("%+d\n",a+b);
 return 0;
 }
 ```
-**Output:-10**
-**Output:30**
+**Output:-10
+30**
 
