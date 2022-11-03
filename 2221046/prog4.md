@@ -1,4 +1,4 @@
-## Program 4: write a code to display usename and roll-no.:.
+## Program 4: Write a code to display usename and roll-no.:.
 ```C
 #include<stdio.h>
 int main()
