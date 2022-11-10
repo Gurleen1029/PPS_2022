@@ -11,6 +11,6 @@ int main()
     return 0;
 }
 ```C
-** Output:/tmp/hsSMnC76Sn.o
+** Output:
 enter a character:a
 ASCII VALUE OF a=97**
