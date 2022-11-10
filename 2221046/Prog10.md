@@ -1,4 +1,4 @@
-## Program:Write a code to display break program.
+## Program:Write a code to display switch statement.
 ```C
 #include<stdio.h>
 int main()
