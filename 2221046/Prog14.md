@@ -1,4 +1,4 @@
-Program 14:Write a program to get a character variable of a ASCII value.
+## Program 14:Write a program to get a character variable of a ASCII value.
 ```C
 #include <stdio.h>
 int main() 
