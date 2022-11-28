@@ -1,4 +1,4 @@
-Program 17:Write a code to display scores.
+## Program 17:Write a code to display scores.
 ```C
 #include <stdio.h>
 int main() 
