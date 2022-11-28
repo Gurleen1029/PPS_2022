@@ -1,4 +1,4 @@
-Program 16:Write a code to display a suitable character.
+## Program 16:Write a code to display a suitable character.
 ```C
 #include <stdio.h>
 int main() 
