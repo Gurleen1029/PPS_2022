@@ -18,3 +18,16 @@ int main()
     return 0;
 }
 ```C
+**Output:Enter the number of terms: 12
+0
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
+89**
