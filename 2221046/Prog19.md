@@ -1,4 +1,4 @@
-## Program 19:write a code to display equality.
+## Program 19:Tutorial Program 3
 ```C
 #include <stdio.h>
 int main()
