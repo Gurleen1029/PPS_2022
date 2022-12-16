@@ -1,4 +1,4 @@
-## Program 18:Write a code to display i need a coffee message.
+## Program 18:Tutorial Program 2
 ```C
 #include <stdio.h>
 int main() 
