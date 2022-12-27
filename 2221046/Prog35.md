@@ -1,4 +1,4 @@
-## Program 38: LINEAR SEARCH
+## Program 35: LINEAR SEARCH
 ```C
 #include <stdio.h>
 
@@ -51,8 +51,8 @@ return 0;
 
 }
 ```C
-**OUTPUT: The elements of the array are - 70 40 30 11 57 41 25 14 52
+**OUTPUT: The elements of the array are - 70 40 30 11 57 41 25 14 52**
 
 Element to be searched is - 41
 
-Element is present at 6 position of array**
+Element is present at 6 position of array
